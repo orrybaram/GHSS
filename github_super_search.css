@@ -1,0 +1,15 @@
+/* CSS */
+
+#GHSS {
+	display:none;
+	position: fixed;
+	top:20%;
+	z-index: 9999999;
+	width:100%;
+}
+
+	#GHSS input[type="text"]{ padding-left:0; padding: 15px; font-size: 20px; }
+	#GHSS .select-menu {display:none;}
+	#GHSS .octicon.help {display:none;}
+	#GHSS .top-nav {display:none;}
+	#GHSS .command-bar-form {margin: 0 auto;}
